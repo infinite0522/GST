@@ -1,0 +1,11 @@
+root_path: "/home/ubuntu/datasets/Counting/UCF-Train-Val-Test/train"
+downsample_ratio: 1
+num_epochs: 4000
+learning_rate: 0.01
+bk_num: 0
+use_bk_mask: True
+display_interval: 100
+gradient_threshold: 0.002
+gaussian_threshold: 0.002
+display_loss: False
+gt_points: True
