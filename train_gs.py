@@ -7,12 +7,12 @@ args = None
 
 def parse_args():
     parser = argparse.ArgumentParser(description='Train ')
-    parser.add_argument('--model-name', default='vgg19_trans', help='the name of the model')
+    parser.add_argument('--model-name', default='vgg_trans', help='the name of the model')
     parser.add_argument('--data-dir', default=r'/home/home/shangmiao/datasets/Counting/NWPU-Train-Val-Test',
                         help='training data directory')
-    parser.add_argument('--save-dir', default='./saved_models/MAN_gs/nwpu',
+    parser.add_argument('--save-dir', default='./saved_models/vggtrans_gs/qnrf',
                         help='directory to save models.')
-    parser.add_argument('--dataset', type=str, default='nwpu',
+    parser.add_argument('--dataset', type=str, default='qnrf',
                         help='the dataset')
 
     parser.add_argument('--save-all', type=bool, default=False,
@@ -67,7 +67,7 @@ def parse_args():
 
     parser.add_argument('--seed', type=int, default=4073,
                         help='random seed')
-    parser.add_argument('--gs-path', type=str, default='gs_params_2',
+    parser.add_argument('--gs-path', type=str, default='gs_params',
                         help='path of gs_params files')
     args = parser.parse_args()
 
