@@ -1,4 +1,4 @@
-# GST: 2D Gaussians Spatial Transport for Point-supervised Density-Regression
+# GST: 2D Gaussians Spatial Transport for Point-supervised Density-Regression (AAAI 2026)
 Official Implement of AAAI 2026 paper '**2D Gaussians Spatial Transport for Point-supervised Density Regression**' (GST).
 
 [![arXiv](https://img.shields.io/badge/GST-2511.14477-b31b1b)](https://arxiv.org/abs/2511.14477)
@@ -79,13 +79,13 @@ UCF-Train-Val-Test
 │   ├── IMG_0001.jpg
 │   ├── IMG_0001.npy
 │   ├── IMG_0002.jpg
-│   ├── IMG_0002.jpg
+│   ├── IMG_0002.npy
 │   └── ...
 ├── val
 │   ├── IMG_0007.jpg
 │   ├── IMG_0007.npy
 │   ├── IMG_0012.jpg
-│   ├── IMG_0012.jpg
+│   ├── IMG_0012.npy
 │   └── ...
 ├── test
 ... ...
@@ -114,13 +114,13 @@ UCF-Train-Val-Test
 │   ├── IMG_0001.jpg
 │   ├── IMG_0001.npy
 │   ├── IMG_0002.jpg
-│   ├── IMG_0002.jpg
+│   ├── IMG_0002.npy
 │   └── ...
 ├── val
 │   ├── IMG_0007.jpg
 │   ├── IMG_0007.npy
 │   ├── IMG_0012.jpg
-│   ├── IMG_0012.jpg
+│   ├── IMG_0012.npy
 │   └── ...
 ├── test
 ... ...
