@@ -156,7 +156,7 @@ We thank the following repos providing helpful components/functions in our work.
 If you use any content of this repo for your work, please cite the following bib entry:
 ```
 @inproceedings{shang2026GST,
-  title={2D Gaussians Spatial Transport for Point-supervised Density-Regression},
+  title={2D Gaussians Spatial Transport for Point-supervised Density Regression},
   author={Shang, Miao and Hong, Xiaopeng},
   booktitle={Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence},
   year={2026}
