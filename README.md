@@ -1,4 +1,4 @@
-# GST: 2D Gaussians Spatial Transport for Point-supervised Density-Regression
+# GST: 2D Gaussians Spatial Transport for Point-supervised Density-Regression (AAAI 2026)
 Official Implement of AAAI 2026 paper '**2D Gaussians Spatial Transport for Point-supervised Density Regression**' (GST).
 
 [![arXiv](https://img.shields.io/badge/GST-2511.14477-b31b1b)](https://arxiv.org/abs/2511.14477)
